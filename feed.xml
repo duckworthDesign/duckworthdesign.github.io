@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Andrew Duckworth</title>
-  <subtitle>Designer, artist</subtitle>
-  <id>https://grillopress.github.io/articles</id>
-  <link href="https://grillopress.github.io/articles"/>
-  <link href="https://grillopress.github.io/feed.xml" rel="self"/>
+  <title>duckworth.design</title>
+  <subtitle>A small design and product consultancy in the UK</subtitle>
+  <id>https://duckworth.design/articles</id>
+  <link href="https://duckworth.design/articles"/>
+  <link href="https://duckworth.design/feed.xml" rel="self"/>
   <updated>2022-12-20T17:16:00+00:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
   <entry>
     <title>Should designers prototype in code?</title>
-    <link rel="alternate" href="https://grillopress.github.io/articles/12/2022/should-designers-prototype-in-code.html"/>
-    <id>https://grillopress.github.io/articles/12/2022/should-designers-prototype-in-code.html</id>
+    <link rel="alternate" href="https://duckworth.design/articles/12/2022/should-designers-prototype-in-code.html"/>
+    <id>https://duckworth.design/articles/12/2022/should-designers-prototype-in-code.html</id>
     <published>2022-12-20T17:16:00+00:00</published>
     <updated>2022-12-20T17:52:36+00:00</updated>
     <author>
@@ -41,8 +41,8 @@
   </entry>
   <entry>
     <title>Your service maps don't need to look the same</title>
-    <link rel="alternate" href="https://grillopress.github.io/articles/12/2022/your-service-maps-don-t-need-to-look-the-same.html"/>
-    <id>https://grillopress.github.io/articles/12/2022/your-service-maps-don-t-need-to-look-the-same.html</id>
+    <link rel="alternate" href="https://duckworth.design/articles/12/2022/your-service-maps-don-t-need-to-look-the-same.html"/>
+    <id>https://duckworth.design/articles/12/2022/your-service-maps-don-t-need-to-look-the-same.html</id>
     <published>2022-12-08T10:22:00+00:00</published>
     <updated>2022-12-20T17:17:00+00:00</updated>
     <author>
