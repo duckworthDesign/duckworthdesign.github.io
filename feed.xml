@@ -5,10 +5,65 @@
   <id>https://duckworth.design/articles</id>
   <link href="https://duckworth.design/articles"/>
   <link href="https://duckworth.design/feed.xml" rel="self"/>
-  <updated>2022-12-20T17:16:00+00:00</updated>
+  <updated>2023-01-18T22:29:00+00:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>The mapping tool we've been using with most of our clients</title>
+    <link rel="alternate" href="https://duckworth.design/articles/01/2023/the-mapping-tool-we-ve-been-using-with-most-of-our-clients.html"/>
+    <id>https://duckworth.design/articles/01/2023/the-mapping-tool-we-ve-been-using-with-most-of-our-clients.html</id>
+    <published>2023-01-18T22:29:00+00:00</published>
+    <updated>2023-01-19T10:52:52+00:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;At &lt;a href="https://duckworth.design/"&gt;duckworth.design&lt;/a&gt; we’ve recently been supporting a lot of organisations large and small to map out and understand where they are and where they want to get to.&lt;/p&gt;
+
+&lt;p&gt;With some of these organisations, it’s not for a lack of understanding or insight into problems. It’s the clarity of what to do about those problems.&lt;/p&gt;
+
+&lt;p&gt;1 of the teams we’re working with have done 5 years worth of research. But they’ve struggled to make an impact in that area.&lt;/p&gt;
+
+&lt;p&gt;There is no single reason for that lack of change. We’re talking about systems and organisations that are very complex.&lt;/p&gt;
+
+&lt;p&gt;However, a technique that we’ve used quite a bit to help sort out our own thoughts, and structure how these organisations respond and plot what to do next is by using a type of impact mapping.&lt;/p&gt;
+
+&lt;p&gt;I’d like to say we have a snappy name. We don’t. It’s sort of a “problem to solution” impact mapping process.&lt;/p&gt;
+
+&lt;p&gt;We’ve written it up in &lt;a href="/our-playbook/problem-solution-mapping.html"&gt;our playbook&lt;/a&gt; how to follow it. But effectively it’s about following a chain of questions and generating answers to them. Which, with understanding of your users and context, will help you create a visual thread of the problem you’re seeing, who it impacts, how you’d know you’re improving the issue and what you’re going to do to make that improvement happen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="../../../images/123.svg" alt="An example impact map. Boxes connect to each other" /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can do it on your own, in small or large groups. Though it does need a strong sense of your users and their needs. Or the acceptance that you’re working on assumptions that’ll need to be proven. To stop it being a guess.&lt;/p&gt;
+
+&lt;p&gt;To go through the process, run through each column to generate and discuss:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Statement of what’s happening today&lt;/li&gt;
+&lt;li&gt;The users impacted by that (internal, external etc)&lt;/li&gt;
+&lt;li&gt;The issues caused by what’s happening today for that user (these may overlap)&lt;/li&gt;
+&lt;li&gt;Write statements that explain the positive change or impact you’d see that would come about from a change. For example, spending less time managing help desk requests resetting login details&lt;/li&gt;
+&lt;li&gt;Then for each positive change, generate the many things you could do to make that positive change happen. This could be many things and things that might conflict with each other. That’s okay. You can prioritise or explore desirability and feasibility later&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;What we like about it is how clear it makes moving from a problem statement to solutions. It also ensures that the thread is easy to understand, challenge and prove (or not!). It also helps teams who have some people who are better at solutions and those at identifying needs work together. And link up their thinking.&lt;/p&gt;
+
+&lt;p&gt;It enables organisations to reflect on the multiple issues being caused by how things work today, as well the multiple actions they could or need to take to resolve issues.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="../../../images/impact-map-example.png" alt="An example of an impact map in use. Small boxes connect to many others. With hundreads of initiatives connecting to each positive outcome" /&gt;
+&lt;figcaption&gt;
+(Zoomed out example where we used an earlier version of the tool for a complex data platform team)
+&lt;/figcaption&gt;&lt;/p&gt;
+
+&lt;p&gt;For start ups we use a similar model, but focus the “what’s happening today” with a goal, mission or future vision they want to be part of. Rather than a more traditional problem statement.&lt;/p&gt;
+
+&lt;p&gt;This flavour of impact mapping tool has really helped shape the strategy for large organisations and small. And done so where the thread from insights of today can drive the solutions being worked on next.&lt;/p&gt;
+
+&lt;p&gt;Want a bit more detail about how to use it? &lt;a href="/our-playbook/problem-solution-mapping.html"&gt;Find that advice in our playbook&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;If you want us to help shape your product or service&amp;rsquo;s strategy and future? &lt;a href="https://forms.gle/Ssz4tNUnJSkAgVQR6"&gt;Get in touch through our form&lt;/a&gt; or by &lt;a href="mailto:contact@duckworth.design"&gt;email&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Should designers prototype in code?</title>
     <link rel="alternate" href="https://duckworth.design/articles/12/2022/should-designers-prototype-in-code.html"/>
